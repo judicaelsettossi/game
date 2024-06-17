@@ -1,0 +1,61 @@
+<!-- resultat.html -->
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Réponse</title>
+</head>
+
+<body>
+    <h1>Résultats</h1>
+
+    <h2>PLAN 1 LOT 1</h2>
+    {% for element in resultat1 %}
+    <ul>
+        {% for e in element %}
+        <li>{{ e }}</li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+
+    <h2>PLAN 2 LOT 1</h2>
+    {% for element in resultat2 %}
+    <ul>
+        {% for e in element %}
+        <li>{{ e }}</li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+
+    <h2>PLAN 3 LOT 1</h2>
+    {% for element in resultat3 %}
+    <ul>
+        {% for e in element %}
+        <li>{{ e }}</li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+
+    <h2>PLAN 4 LOT 1</h2>
+    {% for element in resultat4 %}
+    <ul>
+        {% for e in element %}
+        <li>{{ e }}</li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+
+    <h2>PLAN 5 LOT 1</h2>
+    {% for element in resultat5 %}
+    <ul style="list-style-type: none;">
+        {% for e in element %}
+        <li>{{ e }}</li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+
+</body>
+
+</html>

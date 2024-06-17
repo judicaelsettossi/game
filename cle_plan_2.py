@@ -1,0 +1,27 @@
+liste_cle_plan_2 = []
+
+liste_cle_plan_2.append(['P2', 'P3', 'P5'])
+liste_cle_plan_2.append(['P2', 'P3', 'P6'])
+liste_cle_plan_2.append(['P2', 'P4', 'P6'])
+liste_cle_plan_2.append(['P2', 'P5', 'P6'])
+liste_cle_plan_2.append(['P2', 'P4', 'P5'])
+
+liste_cle_plan_2.append(['P2', 'P7', 'P8'])
+liste_cle_plan_2.append(['P2', 'P7', 'P9'])
+liste_cle_plan_2.append(['P2', 'P7', 'P10'])
+liste_cle_plan_2.append(['P2', 'P7', 'P1'])
+liste_cle_plan_2.append(['P2', 'P8', 'P9'])
+liste_cle_plan_2.append(['P2', 'P8', 'P10'])
+liste_cle_plan_2.append(['P2', 'P8', 'P1'])
+liste_cle_plan_2.append(['P2', 'P9', 'P10'])
+liste_cle_plan_2.append(['P2', 'P9', 'P1'])
+liste_cle_plan_2.append(['P2', 'P10', 'P1'])
+
+liste_cle_plan_2.append(['P2', 'P6', 'P9'])
+liste_cle_plan_2.append(['P2', 'P5', 'P7'])
+liste_cle_plan_2.append(['P2', 'P6', 'P7'])
+liste_cle_plan_2.append(['P2', 'P4', 'P10'])
+liste_cle_plan_2.append(['P2', 'P5', 'P9'])
+liste_cle_plan_2.append(['P2', 'P4', 'P9'])
+liste_cle_plan_2.append(['P2', 'P5', 'P1'])
+liste_cle_plan_2.append(['P2', 'P5', 'P8'])

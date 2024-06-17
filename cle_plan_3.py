@@ -1,0 +1,27 @@
+liste_cle_plan_3 = []
+
+liste_cle_plan_3.append(['P3', 'P4', 'P6'])
+liste_cle_plan_3.append(['P3', 'P4', 'P7'])
+liste_cle_plan_3.append(['P3', 'P5', 'P7'])
+liste_cle_plan_3.append(['P3', 'P6', 'P7'])
+liste_cle_plan_3.append(['P3', 'P5', 'P6'])
+
+liste_cle_plan_3.append(['P3', 'P8', 'P9'])
+liste_cle_plan_3.append(['P3', 'P8', 'P10'])
+liste_cle_plan_3.append(['P3', 'P8', 'P1'])
+liste_cle_plan_3.append(['P3', 'P8', 'P2'])
+liste_cle_plan_3.append(['P3', 'P9', 'P10'])
+liste_cle_plan_3.append(['P3', 'P9', 'P1'])
+liste_cle_plan_3.append(['P3', 'P9', 'P2'])
+liste_cle_plan_3.append(['P3', 'P10', 'P1'])
+liste_cle_plan_3.append(['P3', 'P10', 'P2'])
+liste_cle_plan_3.append(['P3', 'P1', 'P2'])
+
+liste_cle_plan_3.append(['P3', 'P7', 'P10'])
+liste_cle_plan_3.append(['P3', 'P6', 'P8'])
+liste_cle_plan_3.append(['P3', 'P7', 'P8'])
+liste_cle_plan_3.append(['P3', 'P5', 'P1'])
+liste_cle_plan_3.append(['P3', 'P6', 'P10'])
+liste_cle_plan_3.append(['P3', 'P5', 'P10'])
+liste_cle_plan_3.append(['P3', 'P6', 'P2'])
+liste_cle_plan_3.append(['P3', 'P6', 'P9'])

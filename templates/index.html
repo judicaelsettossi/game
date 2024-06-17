@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plans et Lots</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Numéros joués</h1>
+        <form action="{{ url_for('process_form') }}" method="POST">
+            <label for="field1">Poto 1 :</label>
+            <input type="text" id="poto_1" name="poto_1"><br><br>
+
+            <label for="field2">Poto 2 :</label>
+            <input type="text" id="poto_2" name="poto_2"><br><br>
+
+            <label for="field3">Poto 3 :</label>
+            <input type="text" id="poto_3" name="poto_3"><br><br>
+
+            <label for="field4">Poto 4 :</label>
+            <input type="text" id="poto_4" name="poto_4"><br><br>
+
+            <label for="field5">Poto 5 :</label>
+            <input type="text" id="poto_5" name="poto_5"><br><br>
+
+            <input type="submit" value="Soumettre">
+        </form>
+    </div>
+</body>
+
+</html>
